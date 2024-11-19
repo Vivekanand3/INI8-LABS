@@ -33,7 +33,7 @@ Setup and Installation
 
 1. Clone the Repository
 
-git clone https://github.com/Vivekanandd3/INI8 LABS/registration-crud.git
+git clone https://github.com/Vivekanandd3/INI8-LABS/registration-crud.git
 cd registration-crud
 
 
